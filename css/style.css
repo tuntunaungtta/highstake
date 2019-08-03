@@ -1,0 +1,292 @@
+.main-header-nav {
+  padding-left: 0;
+  padding-right: 0;
+  height: 80px;
+  background-color: #343a40 !important; }
+
+.collapse-newbar div a {
+  margin: 10px 20px; }
+
+.container-fluid {
+  padding-right: 0;
+  padding-left: 0; }
+
+.navbar-nav {
+  padding-left: 40px; }
+
+.highstake-logo {
+  margin-bottom: 5px; }
+
+.cardImgTwo {
+  background-image: url("../img/featured-image.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 600px;
+  border-radius: 0; }
+
+.cardTwo {
+  border: 0 solid rgba(0, 0, 0, 0); }
+
+.editor-choice {
+  text-transform: uppercase;
+  margin-bottom: 30px;
+  text-decoration: underline; }
+
+.card-image-text {
+  text-transform: uppercase;
+  color: #3ee2a6;
+  font-size: 13px;
+  text-decoration: none; }
+
+.card-image-text:hover {
+  text-decoration: none;
+  color: black; }
+
+.card-title-one {
+  text-align: center; }
+
+.paragraph-text {
+  text-align: center; }
+
+.paragraph-text-one {
+  color: black; }
+
+.paragraph-text-one:hover {
+  text-decoration: none;
+  color: #3ee2a6; }
+
+.card-column {
+  border: 1px solid white; }
+
+.read-more-mainbox {
+  border: 3px solid #292929;
+  text-align: center;
+  text-transform: uppercase;
+  color: #292929;
+  padding: 10px 30px; }
+
+.read-more-mainbox:hover {
+  background-color: #292929;
+  color: white;
+  text-decoration: none; }
+
+.card-img-overlay h6 a {
+  color: white; }
+.card-img-overlay h6 a:hover {
+  color: #3ee2a6; }
+
+.card-img-overlay h3 a {
+  color: white; }
+.card-img-overlay h3 a:hover {
+  color: #3ee2a6; }
+
+.card-img-overlay p .marga-satya {
+  color: white;
+  text-decoration: none; }
+.card-img-overlay p .marga-satya:hover {
+  color: #3ee2a6; }
+
+.mt-7 {
+  margin-top: 7.5rem; }
+
+.ionic-font a {
+  color: white; }
+
+.ionic-font {
+  text-align: center;
+  margin-right: -650px; }
+
+.Powerful-skill {
+  margin-bottom: 80px; }
+
+.enterpressure-struggle {
+  margin-top: 40px; }
+
+.highlight {
+  border: 2px solid #292929; }
+
+.pangination {
+  width: 100%;
+  text-align: center; }
+  .pangination div {
+    color: #292929;
+    border: 2px solid #292929;
+    height: 35px;
+    width: 35px;
+    display: inline-block; }
+  .pangination .pangination-one {
+    background-color: #292929;
+    padding-top: 3px; }
+    .pangination .pangination-one a {
+      color: white; }
+    .pangination .pangination-one a:hover {
+      text-decoration: none; }
+  .pangination .pangination-two {
+    padding-top: 3px; }
+    .pangination .pangination-two a {
+      color: #292929; }
+  .pangination .pangination-two:hover {
+    background-color: #292929; }
+    .pangination .pangination-two:hover a {
+      color: white;
+      text-decoration: none; }
+
+.next-primary {
+  text-align: center; }
+  .next-primary .next-secondary {
+    positon: relative;
+    border: 2px solid #292929;
+    width: 90px;
+    height: 35px; }
+    .next-primary .next-secondary a {
+      text-align: center;
+      text-decoration: none;
+      color: #292929;
+      position: absolute;
+      left: 40px;
+      top: 5px; }
+  .next-primary .next-secondary:hover {
+    background-color: #292929; }
+    .next-primary .next-secondary:hover a {
+      color: white; }
+
+.footer {
+  background-color: #54e5b0;
+  text-align: center;
+  height: 80px;
+  padding-top: 30px; }
+  .footer a {
+    color: #292929;
+    text-decoration: none; }
+  .footer a:hover {
+    color: white; }
+  .footer .derive-div {
+    display: inline-block;
+    margin-left: 80px; }
+
+.main-footer-container {
+  margin-top: 100px; }
+
+.footer-title {
+  background-color: #292929;
+  width: 100%;
+  height: 250px; }
+  .footer-title img {
+    margin-top: 50px; }
+
+.main-contact-row {
+  margin-top: 70px;
+  margin-bottom: 50px; }
+
+.main-contact-row p a {
+  text-decoration: none;
+  color: #54e5b0; }
+.main-contact-row p a:hover {
+  color: #292929; }
+
+.backtotop li {
+  list-style: none; }
+  .backtotop li a {
+    text-decoration: none;
+    color: #292929; }
+  .backtotop li a:hover {
+    color: #54e5b0; }
+
+.main-card {
+  margin-top: 50px;
+  margin-left: 800px;
+  height: 300px;
+  width: 400px; }
+
+.start-here {
+  background-color: #3ee2a6;
+  border-color: transparent;
+  border-radius: 0;
+  margin-top: 20px; }
+
+.start-here:hover {
+  background-color: #292929;
+  color: white;
+  border-color: transparent; }
+
+.start-here-one:hover {
+  background-color: #3ee2a6; }
+
+.genius-to-start {
+  margin-top: 20px; }
+
+.helping-business {
+  margin-top: 10px;
+  margin-bottom: 10px; }
+
+.card-body-black {
+  background-color: #292929; }
+
+.color-separate {
+  color: white; }
+
+.color-separate .helping-business {
+  color: #3ee2a6; }
+
+.advertisment {
+  margin-bottom: 20px;
+  margin-top: 10px; }
+
+.recent-posts {
+  margin-top: 60px;
+  text-decoration: underline;
+  width: 100%;
+  float: left; }
+
+a .all-photos {
+  width: 100%;
+  margin-top: 10px;
+  height: 80px; }
+
+.text-design {
+  color: #292929;
+  font-size: 16px;
+  font-weight: bolder; }
+
+.text-design:hover {
+  text-decoration: none;
+  color: #3ee2a6; }
+
+.text-design-one {
+  color: #3ee2a6;
+  font-size: 12px; }
+
+.text-design-one:hover {
+  text-decoration: none;
+  color: #292929; }
+
+.main-subscribe-today {
+  border: 10px double #292929;
+  height: 450px;
+  text-align: center; }
+  .main-subscribe-today span {
+    display: block;
+    font-weight: bold; }
+
+.email-address {
+  text-align: center;
+  width: 80%;
+  border: 1px solid #292929;
+  margin-bottom: 20px; }
+
+.subscribe-button {
+  text-align: center;
+  width: 80%;
+  height: 47px;
+  background-color: #292929;
+  color: white;
+  border-color: #292929; }
+
+.subscribe-button:hover {
+  background-color: white;
+  color: #292929;
+  border: 3px solid #292929; }
+
+/*# sourceMappingURL=style.css.map */
